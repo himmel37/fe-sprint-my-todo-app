@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "과제 제출하기",
+      "checked": true
+    },
+    {
+      "id": 2,
+      "text": "운동하기",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "text": "설거지하기",
+      "checked": false
+    }
+  ]
+}
